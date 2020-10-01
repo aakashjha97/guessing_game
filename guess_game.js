@@ -63,6 +63,7 @@
 		resetButton.addEventListener('click',resetGame);
 	}
 
+        // Spaces should be there in initializing variables
 	function resetGame(){
 		count=1;
 
